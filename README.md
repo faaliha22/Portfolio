@@ -5,7 +5,7 @@ The website consists of **two pages: Home and Contact**, designed with a simple 
 
 ##  Live View
 You can view the website here:  
-🔗 {     }    
+🔗https://faaliha22.github.io/Portfolio/
 
 ##  Pages
 - **Home Page** – Contains a brief introduction about me
